@@ -1,0 +1,7 @@
+C:\Users\tikam\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.csprojResolveAssemblyReference.cache
+C:\Users\tikam\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.MainForm.resources
+C:\Users\tikam\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.csproj.GenerateResource.Cache
+C:\Users\tikam\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\bin\Debug\Tugas1_PV2.exe
+C:\Users\tikam\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\bin\Debug\Tugas1_PV2.pdb
+C:\Users\tikam\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.exe
+C:\Users\tikam\Documents\SharpDevelop Projects\Tugas1_PV2\Tugas1_PV2\obj\Debug\Tugas1_PV2.pdb
