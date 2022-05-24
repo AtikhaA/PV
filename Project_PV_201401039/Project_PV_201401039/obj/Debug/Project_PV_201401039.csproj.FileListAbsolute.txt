@@ -1,0 +1,7 @@
+C:\Users\tikam\Documents\SharpDevelop Projects\Project_PV_201401039\Project_PV_201401039\obj\Debug\Project_PV_201401039.csprojResolveAssemblyReference.cache
+C:\Users\tikam\Documents\SharpDevelop Projects\Project_PV_201401039\Project_PV_201401039\obj\Debug\Project_PV_201401039.MainForm.resources
+C:\Users\tikam\Documents\SharpDevelop Projects\Project_PV_201401039\Project_PV_201401039\obj\Debug\Project_PV_201401039.csproj.GenerateResource.Cache
+C:\Users\tikam\Documents\SharpDevelop Projects\Project_PV_201401039\Project_PV_201401039\bin\Debug\Project_PV_201401039.exe
+C:\Users\tikam\Documents\SharpDevelop Projects\Project_PV_201401039\Project_PV_201401039\bin\Debug\Project_PV_201401039.pdb
+C:\Users\tikam\Documents\SharpDevelop Projects\Project_PV_201401039\Project_PV_201401039\obj\Debug\Project_PV_201401039.exe
+C:\Users\tikam\Documents\SharpDevelop Projects\Project_PV_201401039\Project_PV_201401039\obj\Debug\Project_PV_201401039.pdb
